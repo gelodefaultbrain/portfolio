@@ -31,6 +31,13 @@ Learning (Natural Language Processing)
 
 
 <strong style='font-size: 50px;'>2020</strong>  
+*Freelancer*
+
+- GUI (Graphical User Interface) tool that scrapes products from [ebay.com.au](https://www.ebay.com.au/)
+
+
+
+<strong style='font-size: 50px;'>2020</strong>  
 *Software Developer*
 
 - Application program to generate (Anki) apkg files
