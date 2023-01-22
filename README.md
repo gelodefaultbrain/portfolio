@@ -20,7 +20,15 @@ If you'd like to know more details about me then feel free to have a look at any
 *Assistant Software Developer (Student Intern)*
 
 - Web based Ordering System from a client’s small
-restaurant
+restaurant  
+
+  This web app was for my Database and Web Programming subject in college. I am proud to say that this was made from scratch and no bootstrap or any other third party
+  software was used. 🤯
+  
+  ![mitos gif](https://user-images.githubusercontent.com/55988471/213910493-15850c8c-fa7b-4eaf-8b72-871d4749c25a.gif)
+
+
+
 - Web based File Management System for Bicol
 University Tabaco Campus during Internship
 - Web based Data Archive System project for BU-OSAS
@@ -35,8 +43,8 @@ Learning (Natural Language Processing)
 
 - GUI (Graphical User Interface) tool that scrapes products from [ebay.com.au](https://www.ebay.com.au/)  
 
-  This tool scrapes data from ``ebay.com.au`` search results. My client wanted to scrape data based from a query. To be more specific he wanted to scrape Watches ⌚😅   
-    
+  This tool scrapes data from ``ebay.com.au`` search results. My client wanted to scrape data based from a query. To be more specific he wanted to scrape Watches ⌚😅 
+  
   ![ebay au scraper](https://user-images.githubusercontent.com/55988471/213906882-cdb8bd46-deff-4f05-a033-c81ae9a778a2.png)
 
 
