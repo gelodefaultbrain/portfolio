@@ -36,7 +36,13 @@ University Tabaco Campus during Internship
 
 
 - Web based Data Archive System project for BU-OSAS
-(Bicol University Office of Student Affairs and Services)
+(Bicol University Office of Student Affairs and Services)  
+
+  A fun journey to have created this web app with my closest classmates as a team ❤️ I learned a lot, especially in our unique differences as an individual that would also bring us together to deliver this amazing output 🙏
+  
+  ![osas](https://user-images.githubusercontent.com/55988471/213911940-fc1f416b-0575-4739-b78c-c51c74433c58.gif)
+
+
 - Desktop Application tool for Fraud Detection of Job
 Postings with the Implementation of Machine
 Learning (Natural Language Processing)
