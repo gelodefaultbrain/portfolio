@@ -33,7 +33,13 @@ Learning (Natural Language Processing)
 <strong style='font-size: 50px;'>2020</strong>  
 *Freelancer*
 
-- GUI (Graphical User Interface) tool that scrapes products from [ebay.com.au](https://www.ebay.com.au/)
+- GUI (Graphical User Interface) tool that scrapes products from [ebay.com.au](https://www.ebay.com.au/)  
+
+  This tool scrapes data from ``ebay.com.au`` search results. My client wanted to scrape data based from a query. To be more specific he wanted to scrape Watches ⌚😅   
+    
+  ![ebay au scraper](https://user-images.githubusercontent.com/55988471/213906882-cdb8bd46-deff-4f05-a033-c81ae9a778a2.png)
+
+
 
 
 
