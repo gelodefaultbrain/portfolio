@@ -27,10 +27,14 @@ restaurant
   
   ![mitos gif](https://user-images.githubusercontent.com/55988471/213910493-15850c8c-fa7b-4eaf-8b72-871d4749c25a.gif)
 
-
-
 - Web based File Management System for Bicol
-University Tabaco Campus during Internship
+University Tabaco Campus during Internship  
+
+   I had a great time building this web app along with my classmates team. I learned a lot especially when it comes to interacting and working together as a team. Being able to work together with each other's respective role 👌
+  
+  ![butc fms](https://user-images.githubusercontent.com/55988471/213910863-9f51c2aa-c7e9-4677-97ef-27410007c602.gif)
+
+
 - Web based Data Archive System project for BU-OSAS
 (Bicol University Office of Student Affairs and Services)
 - Desktop Application tool for Fraud Detection of Job
