@@ -13,11 +13,9 @@ If you'd like to know more details about me then feel free to have a look at any
 
 <h2>Let's do this 💪</h2>
 
+**<ins>Undergraduate Experience</ins>**  
 
-**<ins>Professional Experience</ins>**
-
-<strong style='font-size: 50px;'>2019</strong>  
-*Assistant Software Developer (Student Intern)*
+<strong style='font-size: 50px;'>2017</strong>
 
 - Web based Ordering System from a client’s small
 restaurant  
@@ -27,13 +25,8 @@ restaurant
   
   ![mitos gif](https://user-images.githubusercontent.com/55988471/213910493-15850c8c-fa7b-4eaf-8b72-871d4749c25a.gif)
 
-- Web based File Management System for Bicol
-University Tabaco Campus during Internship  
 
-   I had a great time building this web app along with my classmates team. I learned a lot especially when it comes to interacting and working together as a team. Being able to work together with each other's respective role 👌
-  
-  ![butc fms](https://user-images.githubusercontent.com/55988471/213910863-9f51c2aa-c7e9-4677-97ef-27410007c602.gif)
-
+<strong style='font-size: 50px;'>2018</strong>  
 
 - Web based Data Archive System project for BU-OSAS
 (Bicol University Office of Student Affairs and Services)  
@@ -42,6 +35,25 @@ University Tabaco Campus during Internship
   
   ![osas](https://user-images.githubusercontent.com/55988471/213911940-fc1f416b-0575-4739-b78c-c51c74433c58.gif)
 
+
+
+<br/>
+<br/>
+
+**<ins>Professional Experience</ins>**
+
+<strong style='font-size: 50px;'>2019</strong>  
+*Assistant Software Developer (Student Intern)*
+
+- Web based File Management System for Bicol
+University Tabaco Campus during Internship  
+
+   I had a great time building this web app along with my classmates team. I learned a lot especially when it comes to interacting and working together as a team. Being able to work together with each other's respective role 👌
+  
+  ![butc fms](https://user-images.githubusercontent.com/55988471/213910863-9f51c2aa-c7e9-4677-97ef-27410007c602.gif)
+
+
+<strong style='font-size: 50px;'>2020</strong>  
 
 - Desktop Application tool for Fraud Detection of Job
 Postings with the Implementation of Machine
