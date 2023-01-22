@@ -53,7 +53,13 @@ University Tabaco Campus during Internship
   ![butc fms](https://user-images.githubusercontent.com/55988471/213910863-9f51c2aa-c7e9-4677-97ef-27410007c602.gif)
 
 
+
+<br/>
+<br/>
+
+
 <strong style='font-size: 50px;'>2020</strong>  
+**Thesis Project** ☕📚📖✍
 
 - Desktop Application tool for Fraud Detection of Job
 Postings with the Implementation of Machine
