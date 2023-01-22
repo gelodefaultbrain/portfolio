@@ -47,7 +47,8 @@ Learning (Natural Language Processing)
 
 - GUI (Graphical User Interface) tool that scrapes products from [ebay.com.au](https://www.ebay.com.au/)  
 
-  This tool scrapes data from ``ebay.com.au`` search results. My client wanted to scrape data based from a query. To be more specific he wanted to scrape Watches ⌚😅 
+  This tool scrapes data from ``ebay.com.au`` search results. My client wanted to scrape data based from a query. To be more specific he wanted to scrape Watches ⌚😅
+  I was just a beginner during this moment so this project was a stepping stone for me to improve my web scrapers and applications.
   
   ![ebay au scraper](https://user-images.githubusercontent.com/55988471/213906882-cdb8bd46-deff-4f05-a033-c81ae9a778a2.png)
 
