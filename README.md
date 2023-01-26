@@ -63,7 +63,13 @@ University Tabaco Campus during Internship
 
 - Desktop Application tool for Fraud Detection of Job
 Postings with the Implementation of Machine
-Learning (Natural Language Processing)
+Learning (Natural Language Processing)  
+
+  Being able to finish this project and finally having that relief of Graduating in college after so many struggles as an irregular student. During this phase,
+  I learned a lot. Be patient and keep on going. ❤️ Very thankful to have my team by my side ❤️
+  
+  ![jobfraud thesis portfolio](https://user-images.githubusercontent.com/55988471/214731439-6b30dc20-cb99-4910-8f82-4989cef103e9.gif)
+
 
 
 <strong style='font-size: 50px;'>2020</strong>  
