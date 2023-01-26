@@ -93,7 +93,7 @@ Learning (Natural Language Processing)
 using Google Docs (via Google Docs API) and send via
 email  
 
-  Personally before working with other companies after Speakda. I'd say this was the most stressing but at the same time **BEST** software that I have built ever. In all honesty, I had no idea how to even do this from the start. I had no idea with Anki and even with Google Docs API. But that's where the determination and patience kicks in. For some reason I was able to do it, I studied all the components necessary for this software to work (especially how Anki was designed programmatically) (I had to learn it's software architecture in order to generate and copy its features to create our own product). I am very proud of this, I'd say a **TOP 1** of my highlights.
+  Personally before working with other companies after Speakda. I'd say this was the most stressing but at the same time **BEST** software that I have ever built. In all honesty, I had no idea how to even do this from the start. I had no idea with Anki and even with Google Docs API. But that's where the determination and patience kicks in. For some reason I was able to do it, I studied all the components necessary for this software to work (especially how Anki was designed programmatically) (I had to learn it's software architecture in order to generate and copy its features to create our own product). I am very proud of this, I'd say a **TOP 1** of my highlights.
   
   A small example on how it works would be that the user would input something like this via Google Docs.
   
