@@ -114,7 +114,7 @@ email
   
   The ``.apkg`` file would then be sent to the client/user via email.
   
-  ![email sample](https://user-images.githubusercontent.com/55988471/214742272-1879be79-67ca-45a2-a137-5c2eff048346.png)
+  ![3](https://user-images.githubusercontent.com/55988471/215100781-46525ac0-ca7f-42dc-98da-b8c83ecb4eb9.png)
 
 
   
