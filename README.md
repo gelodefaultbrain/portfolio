@@ -6,7 +6,7 @@ Quick note: I will only include projects that I consider as "Highlights".
 
 If you'd like to know more details about me then feel free to have a look at any of the following.
 
-- [Resume](https://www.facebook.com)
+
 - [LinkedIn](https://www.linkedin.com/in/janangelobrutas/)
 - [Onlinejobs.ph](https://www.onlinejobs.ph/jobseekers/info/1209320)
 
