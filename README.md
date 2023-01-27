@@ -164,7 +164,16 @@ Translation API
 
 
 - Python web crawler applications, deployed as
-cronjobs to keep track of the latest trends of ecommerce products
+cronjobs to keep track of the latest trends of ecommerce products  
+
+  I enjoyed creating these web crawlers during my time here. It was very challenging. Bypassing the captchas and other security features by the websites being scraped. I had to implement different techniques (proxy rotation, cookies, retries) to achieve the tasks. I learned a lot and very much thankful for this.
+  
+  ![1](https://user-images.githubusercontent.com/55988471/215110305-820f977d-b18e-4724-805b-e55f8a41b281.png)
+  
+  Python applications deployed as cronjobs. Will run on the time set.
+  
+  ![2](https://user-images.githubusercontent.com/55988471/215110709-c4e8d005-fba7-41f5-9898-9c4659704b8d.png)
+
 - Desktop Application tool that creates an interface for
 users to work on with their Google Ads (with the
 implementation of Google Ads API)
