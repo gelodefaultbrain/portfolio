@@ -143,7 +143,19 @@ Google Sheets API)
 
 - Desktop Application tool that analyzes large XML data
 and performs Google Translation via Google
-Translation API
+Translation API  
+
+  Application name: **2000 Sentences Selector Tool**
+  
+  I had a very fun time building this project. I would say it was the most fun I had. Learning more about the [PyQT](https://riverbankcomputing.com/software/pyqt/) framework to build GUI Application tools. It was absolutely amazing and I am very much proud of this as well.
+  
+  ![2](https://user-images.githubusercontent.com/55988471/215099626-0583ef0a-6395-4383-992c-97db98417b87.png)
+  
+  This was the part that [Google Translation API](https://cloud.google.com/translate) was implemented. To translate sentences from based from different languages.
+  
+  ![1](https://user-images.githubusercontent.com/55988471/215099464-4ef5741d-a6f9-4ba7-8e53-5c98c82732b0.png)
+
+
 
 
 <strong style='font-size: 50px;'>2021</strong>  
