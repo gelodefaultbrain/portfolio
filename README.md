@@ -82,7 +82,8 @@ Learning (Natural Language Processing)
   
   ![ebay au scraper](https://user-images.githubusercontent.com/55988471/213906882-cdb8bd46-deff-4f05-a033-c81ae9a778a2.png)
 
-
+- Web Scraping bots to scrape data from websites (e.g.,
+airbnb.com, aliexpress.com and ebay.com)  
 
 
 
@@ -159,10 +160,9 @@ Translation API
 
 
 <strong style='font-size: 50px;'>2021</strong>  
-*Scraper Developer*
+*Scraper Developer*  
 
-- Web Scraping bots to scrape data from websites (e.g.,
-airbnb.com, aliexpress.com and ebay.com)
+
 - Python web crawler applications, deployed as
 cronjobs to keep track of the latest trends of ecommerce products
 - Desktop Application tool that creates an interface for
