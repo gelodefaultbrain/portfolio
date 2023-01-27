@@ -93,6 +93,8 @@ Learning (Natural Language Processing)
 using Google Docs (via Google Docs API) and send via
 email  
 
+  Application name: **Anki Express**
+
   Personally before working with other companies after Speakda. I'd say this was the most stressing but at the same time **BEST** software that I have ever built. In all honesty, I had no idea how to even do this from the start. I had no idea with Anki and even with Google Docs API. But that's where the determination and patience kicks in. For some reason I was able to do it, I studied all the components necessary for this software to work (especially how Anki was designed programmatically) (I had to learn it's software architecture in order to generate and copy its features to create our own product). I am very proud of this, I'd say a **TOP 1** of my highlights.
   
   A small example on how it works would be that the user would input something like this via Google Docs.
@@ -121,7 +123,24 @@ email
 - Application program to extract and read (Anki) apkg
 files data to perform data analysis and import the
 results programmatically to Google Spreadsheet (via
-Google Sheets API)
+Google Sheets API)  
+
+  Application name: **Mass Anki Deck Analyzer**
+  
+  This one also was one of the most intense project's I've created. I had to learn the programming architecture of [Anki](https://apps.ankiweb.net/) in order for this project to be successful.
+  
+  An example **output** of the program would be like this in a Google Sheet thanks to the [Google Sheet API](https://developers.google.com/sheets/api/guides/concepts#:~:text=The%20Google%20Sheets%20API%20is,Update%20spreadsheet%20formatting).
+  
+  ![1](https://user-images.githubusercontent.com/55988471/215094685-67c7e605-5c8c-4c97-ad03-e1bfaf557b28.png)
+  
+  The python application is deployed as a cronjob in a server.
+  
+  ![2](https://user-images.githubusercontent.com/55988471/215095561-45a08d8f-0c12-4f87-be9a-044455d34c66.png)
+
+
+
+
+
 - Desktop Application tool that analyzes large XML data
 and performs Google Translation via Google
 Translation API
