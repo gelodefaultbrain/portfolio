@@ -178,6 +178,10 @@ cronjobs to keep track of the latest trends of ecommerce products
 users to work on with their Google Ads (with the
 implementation of Google Ads API)  
 
+  
+  This project makes use of [Google Ads API](https://developers.google.com/google-ads/api/docs/start). The main purpose of this project was for the user to take control of the internal features from within a Google Ads account. Example is to optimize the creation of **many** add groups , keywords and assign their respective product IDs. This tool would just allow the user to upload a csv file containing a list of values then the API would add them easily. I had a great time working with this project. I learned something new especially with Google Ads.
+  
+  ![google ads tool](https://user-images.githubusercontent.com/55988471/215476973-a1622e9f-d27a-45fa-946e-9fb9416aa531.png)
 
   
 
