@@ -176,10 +176,18 @@ cronjobs to keep track of the latest trends of ecommerce products
 
 - Desktop Application tool that creates an interface for
 users to work on with their Google Ads (with the
-implementation of Google Ads API)
+implementation of Google Ads API)  
+
+
+  
+
 - Desktop Application tool that resembles Google’s
 Natural Language API (with the implementation of
-Cloud Natural Language API)
+Cloud Natural Language API)  
+
+   This project was a lot of fun as well. I learned a lot with [Google's Natural Language API](https://cloud.google.com/natural-language#section-2). I should have known about this API during my Thesis, it would have been really helpful but still I am grateful to the learnings I had from this project.
+  
+  ![noname](https://user-images.githubusercontent.com/55988471/215470894-8f79c326-6d73-478a-ab46-016ef8aa4164.png)
 
 
 <strong style='font-size: 50px;'>2022</strong>  
