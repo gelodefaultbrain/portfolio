@@ -84,6 +84,11 @@ Learning (Natural Language Processing)
 
 - Web Scraping bots to scrape data from websites (e.g.,
 airbnb.com, aliexpress.com and ebay.com)  
+ 
+  Here are some of the web scraper bots that I have created.
+  
+  ![image](https://user-images.githubusercontent.com/55988471/218294987-d8c8d5b0-9127-41c0-b68b-1bd4c0b3b1d2.png)
+
 
 
 
